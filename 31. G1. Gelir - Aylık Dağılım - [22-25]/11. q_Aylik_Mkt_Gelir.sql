@@ -1,0 +1,11 @@
+
+-- q_Aylik_Mkt_Gelir - 31.11
+
+
+SELECT * FROM q_2023_2024_Mkt_Gelir
+UNION
+SELECT * FROM q_2025_Mkt_Gelir
+UNION
+SELECT * FROM q_2026_Mkt_Gelir
+UNION
+SELECT * FROM q_2027_Mkt_Gelir
