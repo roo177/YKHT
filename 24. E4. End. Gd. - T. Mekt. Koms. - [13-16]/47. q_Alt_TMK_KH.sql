@@ -1,0 +1,7 @@
+
+-- q_Alt_TMK_KH - 24.47
+
+
+SELECT * FROM q_Alt_TMK_KH_1
+UNION
+SELECT * FROM q_Alt_TMK_KH_2
